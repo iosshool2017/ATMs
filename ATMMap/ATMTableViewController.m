@@ -6,13 +6,13 @@
 //  Copyright © 2017 Admin. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "ATMTableViewController.h"
 
-@interface ViewController ()
+@interface ATMTableViewController ()
 
 @end
 
-@implementation ViewController
+@implementation ATMTableViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];

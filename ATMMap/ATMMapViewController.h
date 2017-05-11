@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ATMMapViewController.h
 //  ATMMap
 //
 //  Created by Admin on 10.05.17.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ATMMapViewController : UIViewController
 
 @end
-
